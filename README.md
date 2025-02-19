@@ -22,6 +22,7 @@ Instruções principais: LDA, ADD, SUB, OUT, HLT.
 - Software **Digital** para montagem dos circuitos.
 - Livro *Microcomputadores e Microprocessadores* de Malvino, capítulo 10.
 <br>
+
 ![image](https://github.com/user-attachments/assets/78745905-6d38-4ce3-b78c-61cc129c0cb0)
 
 
